@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Clear Inputs</name>
+   <tag></tag>
+   <elementGuidId>b2dd5e7a-f25c-435f-86c4-0028b4d5bc6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-clear-inputs']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-clear-inputs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>88056f79-1337-4962-98e8-595e3af219d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-clear-inputs</value>
+      <webElementGuid>81c0774c-8de9-48ab-ba44-e1661f137db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-danger ms-2</value>
+      <webElementGuid>7017ae7d-fbe7-47b6-ac7a-b99abe2ff93d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clear Inputs</value>
+      <webElementGuid>e57554df-ed59-4e77-abbc-95681e4ca37d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-clear-inputs&quot;)</value>
+      <webElementGuid>e4102e63-f64d-42d2-b3ad-24a87e721dac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-clear-inputs']</value>
+      <webElementGuid>3ffda56c-baf7-412f-a070-adde07e297db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Inputs'])[1]/following::button[1]</value>
+      <webElementGuid>96ca5f93-3cd6-4737-9a0e-3a279cff022d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web inputs'])[2]/following::button[2]</value>
+      <webElementGuid>2af3ab3d-c5f3-4861-873c-0d58ee948153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input: Number'])[1]/preceding::button[1]</value>
+      <webElementGuid>0840f793-4773-4dc4-babc-ba6ff9ec0a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input: Text'])[1]/preceding::button[1]</value>
+      <webElementGuid>ec9f3876-fe4a-49a5-b184-4ff11baccf20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Clear Inputs']/parent::*</value>
+      <webElementGuid>ff70ff6d-eb8e-49b3-870c-ba4b93a5b883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>604ea2f6-97b3-4940-a712-34bfd832c2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-clear-inputs' and (text() = 'Clear Inputs' or . = 'Clear Inputs')]</value>
+      <webElementGuid>eb3aafc9-a8c5-4372-a5f8-09418b4755e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

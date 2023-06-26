@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Web inputs</name>
+   <tag></tag>
+   <elementGuidId>a08bb632-6760-4f1d-872a-d7fd0898673e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='examples']/div/div/div/div/h3/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.my-link.stretched-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>376424db-8b2a-4008-bb47-6a5a69c4e760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inputs</value>
+      <webElementGuid>d0e7520f-2c25-455b-980d-1755576ea752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-link stretched-link</value>
+      <webElementGuid>ad7e3d61-10f0-49a2-b8c6-0d29338f5b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Web inputs</value>
+      <webElementGuid>3b8566fd-1812-4826-918b-7b04379573f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;examples&quot;)/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-md-3 mb-2&quot;]/div[@class=&quot;card card-custom w-100 h-100&quot;]/div[@class=&quot;card-body&quot;]/h3[@class=&quot;card-title expand-card-title&quot;]/a[@class=&quot;my-link stretched-link&quot;]</value>
+      <webElementGuid>c1276192-b323-458d-8fbe-2c2ae420fcb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='examples']/div/div/div/div/h3/a</value>
+      <webElementGuid>f828cf35-801b-4ed8-8d71-06c8cb669986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Web inputs')]</value>
+      <webElementGuid>1dbbef59-6281-450f-9e72-374b79145645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Examples'])[2]/following::a[1]</value>
+      <webElementGuid>b317b0a1-af2a-4518-bd0a-00e934582f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[1]</value>
+      <webElementGuid>2d93935a-1696-4800-92af-65aff721dae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add/Remove Elements'])[1]/preceding::a[1]</value>
+      <webElementGuid>8759b85e-5b7c-4f70-bb24-5b5c53d5f7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Message'])[1]/preceding::a[2]</value>
+      <webElementGuid>82e119dd-7199-444e-a168-c99f0279a017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Web inputs']/parent::*</value>
+      <webElementGuid>c78d7cdd-43af-49e1-bf21-44cb9cc49920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inputs')]</value>
+      <webElementGuid>193ecdca-a7a5-4c2b-aff4-8608ca0c297d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a</value>
+      <webElementGuid>15207e79-3a53-4154-92e9-38509046cdcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/inputs' and (text() = 'Web inputs' or . = 'Web inputs')]</value>
+      <webElementGuid>5b0945e4-532f-4ccd-80fa-6595556801ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
